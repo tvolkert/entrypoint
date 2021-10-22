@@ -10,4 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
 
+  google_sign_in: ^5.1.1
   path_provider: any
+  video_player: any
